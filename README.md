@@ -24,19 +24,14 @@
 <p align="center">
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript"/>
-
   <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5"/>
-
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3"/>
-
   <!-- Visual Studio Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode"/>
-
   <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="csharp"/>
-
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="cplusplus"/>
 </p>
@@ -51,12 +46,23 @@
   </a>
 </p>
 
-Görüntülenme
+---
+
+<!-- GÖRÜNTÜLENME / KARAKTERLİ BANNER -->
+<h3 align="center">Görüntülenme</h3>
 <p align="center">
+  <!-- Aşağıdaki görsel GitHub Action ile otomatik üretilen assets/views.png dosyasını gösterir -->
   <img src="https://raw.githubusercontent.com/nikitagofi/nikitagofi/main/assets/views.png" alt="views with character" />
 </p>
 
+---
 
+<!-- ISTATISTIKLER -->
+<h3 align="center">Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitagofi&show_icons=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikitagofi&theme=transparent" height="160"/>
+</p>
 
 <!-- MINI NOT -->
 <p align="center">
