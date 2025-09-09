@@ -52,7 +52,10 @@
 <h3 align="center">Görüntülenme</h3>
 <p align="center">
   <!-- Aşağıdaki görsel GitHub Action ile otomatik üretilen assets/views.png dosyasını gösterir -->
-  <img src="https://raw.githubusercontent.com/nikitagofi/nikitagofi/main/assets/views.png" alt="views with character" />
+  <img src="https://raw.githubusercontent.com/nikitagofi/nikitagofi/main/assets/views.png" alt="views with character" 
+    />
+  <img width="736" height="736" alt="char0" src="https://github.com/user-attachments/assets/07a81482-2af7-4341-87f6-150c947aa726" />
+
 </p>
 
 ---
