@@ -51,16 +51,18 @@
 <!-- GÖRÜNTÜLENME / KARAKTERLİ BANNER -->
 <h3 align="center">Görüntülenme</h3>
 <p align="center">
+   <img src="./assets/views.png" alt="views with character" />
+</p>
   <!-- Aşağıdaki görsel GitHub Action ile otomatik üretilen assets/views.png dosyasını gösterir -->
 
-<img width="736" height="736" alt="char1 png" src="https://github.com/user-attachments/assets/2e376b05-6d63-454c-a7e2-f81576f0a573" />
+<img width="180" height="736" alt="char1 png" src="https://github.com/user-attachments/assets/2e376b05-6d63-454c-a7e2-f81576f0a573" />
 
-<img width="735" height="739" alt="char3 png" src="https://github.com/user-attachments/assets/a1226a24-4d73-4f96-83c5-ef0ec1c2aca6" />
+<img width="180" height="739" alt="char3 png" src="https://github.com/user-attachments/assets/a1226a24-4d73-4f96-83c5-ef0ec1c2aca6" />
 
-</p><img width="736" height="736" alt="char2 png" src="https://github.com/user-attachments/assets/c2c92b23-b567-4f74-9270-1ec5170754fe" />
+</p><img width="180" height="736" alt="char2 png" src="https://github.com/user-attachments/assets/c2c92b23-b567-4f74-9270-1ec5170754fe" />
 
-<img width="800" height="798" alt="char4 png" src="https://github.com/user-attachments/assets/f841dd99-5060-4658-9815-cc8ba32fe6f7" />
-<img width="736" height="9![Uploading char6.png.png…]()
+<img width="180" height="798" alt="char4 png" src="https://github.com/user-attachments/assets/f841dd99-5060-4658-9815-cc8ba32fe6f7" />
+<img width="180" height="9![Uploading char6.png.png…]()
 15" alt="char5 png" src="https://github.com/user-attachments/assets/66bdaede-3586-44f9-9e0b-f9678c543b9e" />
 
 ---
