@@ -54,18 +54,10 @@
   <!-- Aşağıdaki görsel GitHub Action ile otomatik üretilen assets/views.png dosyasını gösterir -->
   <img src="https://raw.githubusercontent.com/nikitagofi/nikitagofi/main/assets/views.png" alt="views with character" 
     />
-  <img width="736" height="736" alt="char0" src="https://github.com/user-attachments/assets/07a81482-2af7-4341-87f6-150c947aa726" />
-
+ 
 </p>
 
 ---
-
-<!-- ISTATISTIKLER -->
-<h3 align="center">Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitagofi&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikitagofi&theme=transparent" height="160"/>
-</p>
 
 <!-- MINI NOT -->
 <p align="center">
