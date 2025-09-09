@@ -51,12 +51,12 @@
   </a>
 </p>
 
-<!-- ISTATISTIKLER -->
-<h3 align="center">Stats</h3>
+Görüntülenme
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitagofi&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikitagofi&theme=transparent" height="160"/>
+  <img src="https://raw.githubusercontent.com/nikitagofi/nikitagofi/main/assets/views.png" alt="views with character" />
 </p>
+
+
 
 <!-- MINI NOT -->
 <p align="center">
