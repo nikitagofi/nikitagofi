@@ -53,11 +53,17 @@
 <p align="center">
   <!-- Aşağıdaki görsel GitHub Action ile otomatik üretilen assets/views.png dosyasını gösterir -->
   <img src="https://raw.githubusercontent.com/nikitagofi/nikitagofi/main/assets/views.png" alt="views with character" 
-    />
+     />
  
-</p>
+</p><img width="735" height=<img width="800" height="798" alt="char3" src="https://github.com/user-attachments/assets/d3f04e3c-6820-4761-96a0-9fb110c5bba7" />
+"739" alt="char2" src="https://git<img width="735" height="1100" alt="char5" src="https://github.com/user-attachments/assets/f86b40cc-0edf-457f-ae15-edd9ce5c57e7" />
+hub.com/user-attachments/assets/1fd43b5e-bad9-4cfa-8db6-dfdfabc845c3" />
+<img width="736" height="915" alt="char4" src="https://github.com/user-attachments/assets/90dddc97-a7a6-4b09-879b-8e8d4625e2ec" />
 
----
+<img width="736" height="736" alt="char0" src="https://github.com/user-attachments/assets/08f4fe02-1881-4d87-898c-359039106c01" />
+
+---<img width="736" height="736" alt="char1" src="https://github.com/user-attachments/assets/b4d66fa8-7292-4728-8bdc-e035f1a31151" />
+
 
 <!-- MINI NOT -->
 <p align="center">
