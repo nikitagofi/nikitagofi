@@ -48,8 +48,7 @@
   <img src="./assets/views.png" alt="views with character" width="860" />
 </p>
 
-<!-- İstersen karakterlerin küçük bir galerisi (opsiyonel) -->
-<!--
+
 <h4 align="center">Karakter seti</h4>
 <p align="center">
   <img src="./assets/char0.png" width="160"/>
