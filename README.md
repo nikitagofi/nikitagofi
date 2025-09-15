@@ -40,24 +40,32 @@
 </p>
 
 ---
+---
 
 <!-- GÖRÜNTÜLENME / KARAKTERLİ BANNER -->
-<h3 align="center">Görüntülenme</h3>
-<p align="center">
-  <!-- Bu görsel GitHub Action tarafından assets/views.png olarak üretilir -->
-  <p align="center">
-  <img src="./assets/views.png" alt="views counter" width="860"/>
+<h3 align="center">🔢 Görüntülenme Sayısı</h3>
 
-<img src="./assets/char0.png" width="160"/>
-<img src="./assets/char1.png" width="160"/>
-<img src="./assets/char2.png" width="160"/>
-<img src="./assets/char3.png" width="160"/>
-<img src="./assets/char4.png" width="160"/>
-<img src="./assets/char5.png" width="130"/>
+<p align="center">
+  <!-- Eğer GitHub Action ile views.png çalışırsa -->
+  <img src="./assets/views.png" alt="views counter" width="860"/>
 </p>
 
+<!-- Alternatif: Komarev counter (yedek olarak kalabilir) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikitagofi&label=Profile%20Views&style=for-the-badge" alt="profile views"/>
+</p>
 
+<h4 align="center">Karakter Seti</h4>
+<p align="center">
+  <img src="./assets/char0.png" width="160"/>
+  <img src="./assets/char1.png" width="160"/>
+  <img src="./assets/char2.png" width="160"/>
+  <img src="./assets/char3.png" width="160"/>
+  <img src="./assets/char4.png" width="160"/>
+  <img src="./assets/char5.png" width="130"/>
+</p>
 
+---
 
 ---
 
