@@ -1,4 +1,5 @@
 <!-- PROFIL BASLIK -->
+![Profile Views](https://count.getloli.com/get/@nikitagofi?theme=yousa-ling)
 
 
 <h1 align="center">Starr <span style="color:#6c2bd9;">zeyzey</span>❁</h1>
