@@ -1,1 +1,35 @@
 
+name: Update SVG Views
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6 saatte bir çalışır
+  workflow_dispatch:        # Elle çalıştırma seçeneği
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Generate SVG counter
+        env:
+          GITHUB_USERNAME: nikitagofi
+        run: |
+          python tools/generate_svg_counter.py
+
+      - name: Commit result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/views.svg
+          git commit -m "update views.svg" || echo "no changes"
+          git push
