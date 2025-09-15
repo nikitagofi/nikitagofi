@@ -1,5 +1,5 @@
 <!-- PROFIL BASLIK -->
-![Profile Views](https://count.getloli.com/get/@nikitagofi?theme=moebooru)
+
 
 <h1 align="center">Starr <span style="color:#6c2bd9;">zeyzey</span>❁</h1>
 
@@ -53,6 +53,7 @@
   <!-- Eğer GitHub Action ile views.png çalışırsa -->
   <img src="./assets/views.png" alt="views counter" width="860"/>
 </p>
+
 
 <!-- Alternatif: Komarev counter (yedek olarak kalabilir) -->
 <p align="center">
