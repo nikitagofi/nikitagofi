@@ -47,7 +47,6 @@
   <!-- Bu görsel GitHub Action tarafından assets/views.png olarak üretilir -->
   <p align="center">
   <img src="./assets/views.png" alt="views counter" width="860"/>
-</p>
 
 <img src="./assets/char0.png" width="160"/>
 <img src="./assets/char1.png" width="160"/>
