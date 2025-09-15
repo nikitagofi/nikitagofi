@@ -1,4 +1,6 @@
 <!-- PROFIL BASLIK -->
+![Profile Views](https://count.getloli.com/get/@nikitagofi?theme=moebooru)
+
 <h1 align="center">Starr <span style="color:#6c2bd9;">zeyzey</span>❁</h1>
 
 <p align="center">
@@ -21,6 +23,8 @@
 <!-- TEKNOLOJI YIGINIM -->
 <h3 align="center">Tech Stack</h3>
 <p align="center">
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3"/>
