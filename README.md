@@ -1,7 +1,4 @@
 <!-- PROFIL BASLIK -->
-![Profile Views](https://count.getloli.com/get/@nikitagofi?theme=yousa-ling)
-
-
 <h1 align="center">Starr <span style="color:#6c2bd9;">zeyzey</span>❁</h1>
 
 <p align="center">
@@ -60,6 +57,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitagofi&label=Profile%20Views&style=for-the-badge" alt="profile views"/>
 </p>
+<img width="355" height="152" alt="image" src="https://github.com/user-attachments/assets/b08c7a7c-8612-4d75-a9e6-1303e4b2afbf" />
 
 <h4 align="center">Karakter Seti</h4>
 <p align="center">
