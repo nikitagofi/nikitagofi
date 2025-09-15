@@ -1,5 +1,5 @@
 <!-- PROFIL BASLIK -->
-<h1 align="center">Starr <span style="color:#6c2bd9;">zeyzey</span>❁</h1>
+<h1 align="center">Starr <span style="color:#6c2bd9;">zeyzey</span>˚.🎀༘⋆</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitagofi&label=Profile%20views&style=for-the-badge" alt="profile views"/>
