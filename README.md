@@ -44,6 +44,7 @@
 ---
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31s4xpywi6urapg5h2cmg5q3g6q4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)
 
+
 ---
 
 <!-- GÖRÜNTÜLENME / KARAKTERLİ BANNER -->
