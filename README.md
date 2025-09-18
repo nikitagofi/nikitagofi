@@ -42,6 +42,8 @@
 </p>
 
 ---
+[![Steam Profile](https://badges.steamprofile.com/profile/default/steam/76561199881358689.png)](https://steamcommunity.com/profiles/76561199881358689)
+
 ---
 
 <!-- GÖRÜNTÜLENME / KARAKTERLİ BANNER -->
