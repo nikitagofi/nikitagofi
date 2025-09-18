@@ -41,8 +41,17 @@
   </a>
 </p>
 
----
-[![Steam Profile](https://badges.steamprofile.com/profile/default/steam/76561199881358689.png)](https://steamcommunity.com/profiles/76561199881358689)
+---## 🌟 Steam Köşem 🌟
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Steam%20Profilim&fontSize=30&fontAlignY=35&desc=Oyunlarda%20beni%20takip%20et&descAlignY=55&animation=twinkling" />
+</p>
+
+<p align="center">
+  <a href="https://steamcommunity.com/profiles/76561199881358689">
+    <img src="https://steamsignature.com/card/3/76561199881358689.png" alt="Steam Profile"/>
+  </a>
+</p>
 
 ---
 
