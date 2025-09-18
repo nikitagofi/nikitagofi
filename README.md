@@ -58,3 +58,12 @@
 <p align="center">
   <i>If you love to fly, sometimes you know when you're going to fall. ✨</i>
 </p>
+
+![Pull Requests](https://img.shields.io/badge/PRs-Active-green?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-🌟%20315-yellow?style=for-the-badge)
+![Fast Commit](https://img.shields.io/badge/Hızlı%20çekim-🤠🐧-orange?style=for-the-badge)
+
+## 📊 GitHub İstatistikleri
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zehnozkok&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehnozkok&layout=compact&theme=radical)
+
