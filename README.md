@@ -49,8 +49,20 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@nikitagofi?theme=yousa-ling" alt="views counter"/>
 </p>
-
 ---
+
+## 🌌 Yıldızlı Köşem 🌌
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="600" alt="Kayan Yıldız"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsspf0C8kEC2f7y/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100" />
+</p>
+
 ---
 <!-- MINI NOT -->
 <p align="center">
