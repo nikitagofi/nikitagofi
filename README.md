@@ -54,7 +54,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Banner" width="100%" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Banner" width="50%" />
 </p>
 
 <!-- Typing Effect -->
@@ -64,33 +64,10 @@
 
 ---
 
-## 🎮 Steam Profilim
-<p align="center">
-  <a href="https://steamcommunity.com/profiles/76561199881358689">
-    <img src="https://steamsignature.com/card/2/76561199881358689.png" alt="Steam Profile"/>
-  </a>
-</p>
-
----
-
 ## 📺 En Son İzlediğim Anime
 <p align="center">
   <img src="https://anilist-github-card.vercel.app/api?username=KULLANICI_ADIN" alt="AniList Profile"/>
 </p>
-
----
-
-## 📊 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
-
----
-
-## 🐍 Commit Yılanı
-![Snake animation](https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🎨 Oyun & Anime Galerim
