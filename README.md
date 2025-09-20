@@ -51,6 +51,24 @@
 </p>
 
 ---
+![Snake animation](https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=👋+Hoşgeldin!;🚀+Benim+GitHub+köşem!;🎮+Oyun+ve+Anime+sever;💻+Kod+paylaşmayı+seviyorum" />
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/IcZhFmufozDCij3PWN/giphy.gif" width="600" />
+</p>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight)
 
 ---
 
