@@ -51,37 +51,7 @@
 </p>
 
 ---
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Banner" width="50%" />
-</p>
-
-<!-- Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👋+Hoşgeldin!;🎮+Oyun+ve+Anime+sever;💻+Kod+paylaşmayı+seviyorum;🚀+GitHub+profilime+göz+at!">
-</p>
-
 ---
-
-## 📺 En Son İzlediğim Anime
-<p align="center">
-  <img src="https://anilist-github-card.vercel.app/api?username=KULLANICI_ADIN" alt="AniList Profile"/>
-</p>
----
-
-## 🎨 Oyun & Anime Galerim
-<p align="center">
-  <img src="eldenring.jpg" width="150"/> 
-  <img src="dark_souls.jpg" width="150"/> 
-  <img src="naruto.png" width="150"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/IcZhFmufozDCij3PWN/giphy.gif" width="300"/>
-</p>
-
----
-
 <!-- MINI NOT -->
 <p align="center">
   <i>If you love to fly, sometimes you know when you're going to fall. ✨</i>
