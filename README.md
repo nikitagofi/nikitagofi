@@ -48,9 +48,6 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@nikitagofi?theme=yousa-ling" alt="views counter"/>
 </p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/discordID)](https://discord.com/users/discordID)
-
 <!-- MINI NOT -->
 <p align="center">
   <i>If you love to fly, sometimes you know when you're going to fall. ✨</i>
