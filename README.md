@@ -48,6 +48,17 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@nikitagofi?theme=yousa-ling" alt="views counter"/>
 </p>
+
+<h3 align="center">Discord Status</h3>
+<p align="center">
+  <a href="https://discord.com/users/1029431477219360869" target="_blank">
+    <img
+      src="https://lanyard.cnrad.dev/api/1029431477219360869?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20px&showDisplayName=true"
+      alt="Discord Presence"
+    />
+  </a>
+</p>
+
 <!-- MINI NOT -->
 <p align="center">
   <i>If you love to fly, sometimes you know when you're going to fall. ✨</i>
