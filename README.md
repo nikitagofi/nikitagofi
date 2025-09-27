@@ -50,7 +50,6 @@
   <img src="https://count.getloli.com/get/@nikitagofi?theme=yousa-ling" alt="views counter"/>
 </p>
 ---
-<!-- Discord --> <a href="https://discord.gg/yourInvite" target="_blank"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /> </a> <!-- Notion --> <a href="https://www.notion.so/zeyzeyefs" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> </a> </p>
 ---
 <!-- MINI NOT -->
 <p align="center">
