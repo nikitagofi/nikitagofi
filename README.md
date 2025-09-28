@@ -46,17 +46,7 @@
 <!-- GÖRÜNTÜLENME / KARAKTERLİ BANNER -->
 <h3 align="center">Görüntülenme</h3>
 <p align="center">
-  <!-- MoeBooru -->
-  <img src="https://count.getloli.com/get/@nikitagofi?theme=moebooru" alt="moebooru counter" />
-
-  <!-- Yousa -->
-  <img src="https://count.getloli.com/get/@nikitagofi?theme=yousa" alt="yousa counter" />
-
-  <!-- Asoul -->
-  <img src="https://count.getloli.com/get/@nikitagofi?theme=asoul" alt="asoul counter" />
-
-  <!-- Gelbooru -->
-  <img src="https://count.getloli.com/get/@nikitagofi?theme=gelbooru" alt="gelbooru counter" />
+  <img src="https://count.getloli.com/get/@nikitagofi?theme=booru-vp" alt="views counter"/>
 </p>
 
 <h3 align="center">Discord Status</h3>
