@@ -60,6 +60,12 @@
   </a>
 </p>
 
+---
+### 🎧 Now Playing on Spotify
+
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31s4xpywi6urapg5h2cmg5q3g6q4)
+
+
 <!-- MINI NOT -->
 <p align="center">
   <i>If you love to fly, sometimes you know when you're going to fall. ✨</i>
