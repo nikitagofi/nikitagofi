@@ -61,11 +61,22 @@
 </p>
 
 ---
-### 🎵 Now Playing on Spotify
+<h3 align="center">🎵 Now Playing on Spotify</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31s4xpywi6urapg5h2cmg5q3g6q4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=d2418f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31s4xpywi6urapg5h2cmg5q3g6q4&redirect=true)
-
-
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31s4xpywi6urapg5h2cmg5q3g6q4&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31s4xpywi6urapg5h2cmg5q3g6q4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=d2418f&bar_color_cover=false" 
+               alt="Spotify Now Playing" 
+               width="350"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+---
 
 <!-- MINI NOT -->
 <p align="center">
