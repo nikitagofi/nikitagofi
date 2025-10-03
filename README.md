@@ -58,7 +58,9 @@ alt="Discord Presence"
 />
 </a>
 </p>
+
 ---
+
 <h3 align="center">🎵 Now Playing on Spotify</h3>
 
 <div align="center">
