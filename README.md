@@ -62,8 +62,8 @@
 
 ---
 ### 🎵 Now Playing on Spotify
-[![Spotify](https://view-transitions-sepia-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/31s4xpywi6urapg5h2cmg5q3g6q4)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31s4xpywi6urapg5h2cmg5q3g6q4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=d2418f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31s4xpywi6urapg5h2cmg5q3g6q4&redirect=true)
 
 
 
