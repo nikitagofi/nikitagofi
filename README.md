@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@nikitagofi?theme=booru-vp" alt="views counter"/>
 </p>
----
+
 <h3 align="center">Discord Status</h3>
 <p align="center">
 <a href="https://discord.com/users/1029431477219360869" target="_blank">
