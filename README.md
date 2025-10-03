@@ -61,8 +61,9 @@
 </p>
 
 ---
-### 🎶 Now Playing on Spotify
-[![Spotify](https://your-vercel-app.vercel.app/api/spotify)](https://open.spotify.com/user/31s4xpywi6urapg5h2cmg5q3g6q4)
+### 🎵 Now Playing on Spotify
+[![Spotify](https://view-transitions-sepia-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/31s4xpywi6urapg5h2cmg5q3g6q4)
+
 
 
 
