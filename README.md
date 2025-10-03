@@ -42,6 +42,8 @@
 </p>
 
 ---
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31s4xpywi6urapg5h2cmg5q3g6q4)
+
 ---
 <!-- GÖRÜNTÜLENME / KARAKTERLİ BANNER -->
 <h3 align="center">Görüntülenme</h3>
