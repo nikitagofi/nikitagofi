@@ -42,14 +42,15 @@
 </p>
 
 ---
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31s4xpywi6urapg5h2cmg5q3g6q4)
-
 ---
 <!-- GÖRÜNTÜLENME / KARAKTERLİ BANNER -->
 <h3 align="center">Görüntülenme</h3>
 <p align="center">
   <img src="https://count.getloli.com/get/@nikitagofi?theme=booru-vp" alt="views counter"/>
 </p>
+---
+
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31s4xpywi6urapg5h2cmg5q3g6q4)
 
 <h3 align="center">Discord Status</h3>
 <p align="center">
