@@ -57,18 +57,20 @@
 <table>
 <tr>
 <td align="center" style="border: 2px solid #1DB954; border-radius: 12px; padding: 10px; background-color:#0a1a3d;">
-  
-<!-- Müzik dinliyorsan gösterir -->
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=l00jhw855tpzpxo6cikybn0ft&cover_image=true&theme=default&show_offline=false&background_color=540729&interchange=false&profanity=false&bar_color_cover=false&bar_color=179781&cache_bust=2"
-     alt="Spotify Now Playing"
-     width="320"
-     onerror="this.style.display='none'"/>
+
+<a href="https://open.spotify.com/user/l00jhw855tpzpxo6cikybn0ft" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=l00jhw855tpzpxo6cikybn0ft&cover_image=true&theme=default&show_offline=true&background_color=0a1a3d&interchange=true&bar_color=ff4fd8&bar_color_cover=false&cache_bust=4" 
+       alt="Spotify Now Playing"
+       width="320" 
+       onerror="this.src='https://readme-typing-svg.demolab.com?lines=🎧 Currently+offline;🌙+Not+listening+right+now!&center=true&width=300&color=ffffff'"/>
+</a>
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
