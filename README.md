@@ -56,13 +56,12 @@
 
 <table>
 <tr>
-<td align="center" style="border: 2px solid #1DB954; border-radius: 12px; padding: 10px; background-color:#0a1a3d;">
+<td align="center" style="border: 2px solid #ff004c; border-radius: 12px; padding: 10px; background-color:#19001f;">
 
-<a href="https://open.spotify.com/user/l00jhw855tpzpxo6cikybn0ft" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=l00jhw855tpzpxo6cikybn0ft&cover_image=true&theme=default&show_offline=true&background_color=0a1a3d&interchange=true&bar_color=ff4fd8&bar_color_cover=false&cache_bust=4" 
-       alt="Spotify Now Playing"
-       width="320" 
-       onerror="this.src='https://readme-typing-svg.demolab.com?lines=🎧 Currently+offline;🌙+Not+listening+right+now!&center=true&width=300&color=ffffff'"/>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=l00jhw855tpzpxo6cikybn0ft&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=l00jhw855tpzpxo6cikybn0ft&cover_image=true&theme=default&show_offline=true&background_color=19001f&interchange=true&bar_color=ff004c&bar_color_cover=false&cache_bust=5" 
+       alt="Spotify Now Playing" 
+       width="320"/>
 </a>
 
 </td>
@@ -70,7 +69,6 @@
 </table>
 
 </div>
-
 
 ---
 
