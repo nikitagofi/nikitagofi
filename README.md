@@ -59,12 +59,11 @@
 <tr>
 <td align="center" style="border: 2px solid #1DB954; border-radius: 12px; padding: 10px; background-color:#0a1a3d;">
   
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=l00jhw855tpzpxo6cikybn0ft&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=l00jhw855tpzpxo6cikybn0ft&cover_image=true&theme=default&show_offline=true&background_color=0a1a3d&interchange=true&bar_color=ff4fd8&bar_color_cover=false" 
-       alt="Spotify Now Playing" 
-       width="300"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=l00jhw855tpzpxo6cikybn0ft&cover_image=true&theme=default&show_offline=false&background_color=2b031c&interchange=false&profanity=false&bar_color=020e40&bar_color_cover=true">
+  </a>
+</p>
 </td>
 </tr>
 </table>
