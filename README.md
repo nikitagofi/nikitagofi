@@ -59,7 +59,7 @@
 <tr>
 <td align="center" style="border: 2px solid #1DB954; border-radius: 12px; padding: 10px; background-color:#0a1a3d;">
   
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31s4xpywi6urapg5h2cmg5q3g6q4&redirect=true">
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=l00jhw855tpzpxo6cikybn0ft&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31s4xpywi6urapg5h2cmg5q3g6q4&cover_image=true&theme=default&show_offline=true&background_color=0a1a3d&interchange=true&bar_color=ff4fd8&bar_color_cover=false" 
        alt="Spotify Now Playing" 
        width="300"/>
