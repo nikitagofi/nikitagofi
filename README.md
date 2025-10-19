@@ -58,8 +58,11 @@
 <table>
 <tr>
 <td align="center" style="border: 2px solid #1DB954; border-radius: 12px; padding: 10px; background-color:#0a1a3d;">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l00jhw855tpzpxo6cikybn0ft&cover_image=true&theme=default&show_offline=true&background_color=050453&interchange=true&profanity=false&bar_color=680820)](https://spotify-github-profile.kittinanx.com/api/view?uid=l00jhw855tpzpxo6cikybn0ft&redirect=true)
-</tr>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=l00jhw855tpzpxo6cikybn0ft&cover_image=true&theme=default&show_offline=false&background_color=540729&interchange=false&profanity=false&bar_color_cover=false&bar_color=179781">
+  </a>
+</p>
 </table>
 
 </div>
