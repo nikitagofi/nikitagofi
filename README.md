@@ -32,16 +32,6 @@
 </p>
 
 ---
-
-<!-- VITRIN PROJELER -->
-<h3 align="center">Featured Repos</h3>
-<p align="center">
-  <a href="https://github.com/nikitagofi/fotografcilik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitagofi&repo=fotografcilik&theme=transparent" />
-  </a>
-</p>
-
----
 <!-- GÖRÜNTÜLENME / KARAKTERLİ BANNER -->
 <h3 align="center">Görüntülenme</h3>
 <p align="center">
