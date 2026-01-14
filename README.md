@@ -42,7 +42,6 @@
 </p>
 
 ---
----
 <!-- GÖRÜNTÜLENME / KARAKTERLİ BANNER -->
 <h3 align="center">Görüntülenme</h3>
 <p align="center">
